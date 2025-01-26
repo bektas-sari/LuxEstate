@@ -1,4 +1,4 @@
-# Vite React TypeScript Starter
+# LuxEstate Emlak Web Sayfası (Vo.dev Ai coder yardımıyla kodlanmıştır)
 Bu proje, **Vite**, **React** ve **TypeScript** kullanılarak geliştirilmiş modern bir web geliştirme şablonudur. Proje, hızlı geliştirme ve optimize edilmiş bir yapı sunmaktadır.
 
 ## 🚀 Özellikler
