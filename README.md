@@ -1,5 +1,5 @@
 ```markdown
-# LuxEstate - Luxury Real Estate Platform
+# LuxEstate - Luxury Real Estate Platform (Web Page)
 
 A modern real estate website built with React, TypeScript, Tailwind CSS, and Vite. Designed to showcase premium properties with a clean and responsive UI.
 
@@ -92,5 +92,5 @@ Contributions are welcome! Open an issue or submit a PR for improvements or bug 
 
 ---
 
-**Note**: This is a private project. Unauthorized distribution is prohibited.  
+**Note**: This is a private project. 
 ```
