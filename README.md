@@ -90,6 +90,16 @@ vite.config.ts
 
 Contributions are welcome! Open an issue or submit a PR for improvements or bug fixes.
 
+## 👤 Developer
+
+**Bektas Sari**  
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
+
 ---
 
 **Note**: This is a private project. 
